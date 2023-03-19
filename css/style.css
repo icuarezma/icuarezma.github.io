@@ -1,0 +1,11 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+.pane-center{
+    /* padding: 10px; */
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 30px;
+}
